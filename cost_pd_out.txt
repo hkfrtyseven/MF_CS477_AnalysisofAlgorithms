@@ -1,0 +1,25 @@
+Minimum shipping cost is: 98
+
+Company (either A or B) used per week: 
+Week 1		A 
+Week 2		A 
+Week 3		A 
+Week 4		B 
+Week 5		B 
+Week 6		B 
+Week 7		B 
+Week 8		A 
+Week 9		A 
+Week 10		A 
+
+Aggregate shipping costs per week: 
+Week 1		11 
+Week 2		20 
+Week 3		29 
+Week 4		40 
+Week 5		51 
+Week 6		60 
+Week 7		69 
+Week 8		78 
+Week 9		87 
+Week 10		98 
